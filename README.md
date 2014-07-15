@@ -1,4 +1,4 @@
 myMaster
 ========
 
-myMaster repositary
+Hai you r in my Repository
